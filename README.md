@@ -1,7 +1,7 @@
-Experimental vs Theoretical Complexity Analysis
+#Experimental vs Theoretical Complexity Analysis
 This repository contains a Python program that compares the experimental runtime with its theoretical time complexity, O(n log(n))
 
-Description
+#Description
 The function simulates an algorithm where  we calculate time complexity The program:
 
 Measures experimental runtimes.
