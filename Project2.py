@@ -20,7 +20,7 @@ def merge_sorted_lists(sizes):
     return total_cost
 # Function: Run Experimental Tests
 def run_experiment():
-    input_sizes = [5, 10, 50, 100, 500, 1000, 2000, 3000, 5000]
+    input_sizes = [5, 10, 50, 100, 500, 1000, 2000, 3000, 5000,10000,20000,50000]
     experimental_times = []
     theoretical_values = []
     for n in input_sizes:
